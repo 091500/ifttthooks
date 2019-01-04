@@ -45,7 +45,7 @@ Custom Trigger could be assigned to each slot.
 
    
    
-### Import Token feature
+### Import Key feature
 This outstanding feature allows to quickly import long key strings instead of typing them on your watch!    
 Make sure your watch is connected to internet. Then perform the following steps:    
 1. visit [IFTTT Hooks Import Key service](https://murmuring-escarpment-62267.herokuapp.com)
