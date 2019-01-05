@@ -70,5 +70,5 @@ Share your impressions with #IFTTTHooks hashtag
 
 Thank you
 
-### version history
+### Version history
 ? release :sunglasses:    
