@@ -2,6 +2,8 @@
 
 Send IFTTT webhook events from your wrist
 
+video [presentation](https://www.youtube.com/watch?v=FCwxSknQ7xA)
+
 **Features:**
 
 * Galaxy Watch support
@@ -11,7 +13,7 @@ Send IFTTT webhook events from your wrist
 
 
 ### Requirements
-1. visit [ifttt.com](ifttt.com) and obtain webhook key.
+1. visit [ifttt.com](http://ifttt.com) and obtain webhook key.
 1. create an applet which uses webhook
 1. install IFTTT Hooks app from Samsung Galaxy Apps Store on your watch and setup it
 
