@@ -73,4 +73,4 @@ Share your impressions with #IFTTTHooks hashtag
 Thank you
 
 ### Version history
-? release :sunglasses:    
+2019.01.15 release date :sunglasses:    
