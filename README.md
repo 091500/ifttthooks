@@ -21,7 +21,7 @@ video [presentation](https://www.youtube.com/watch?v=FCwxSknQ7xA)
 ### App menu and configuration
 App main menu consists of the following items:
 
-➊ **Send Triggers** - send Triggers to your Blynk-running devices.
+➊ **Send Triggers** - send Triggers to your IFTTT applets.
 
 ➋ **Setup Keys** - add or delete your keys.
 Required fields: 
