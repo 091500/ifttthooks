@@ -2,7 +2,7 @@
 
 Send IFTTT webhook events from your wrist
 
-video [presentation](https://www.youtube.com/watch?v=FCwxSknQ7xA)
+video [presentation](https://www.youtube.com/watch?v=vmenfESsaJg)
 
 **Features:**
 
