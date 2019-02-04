@@ -66,7 +66,9 @@ Send Triggers menu item shows a notification if network connection is absent on 
 You are able to use app even without WiFi connection. In this case your smartwatch should be connected to your phone over bluetooth. 
 Bluetooth internet tethering should be enabled in your phone Connection Settings.
 
-Bluetooth tethering on Android [setup](https://drive.google.com/file/d/1hOui7izz4d4lcZPP9c_yMw5HaqX0_ncA/view?usp=sharing)
+Bluetooth tethering on Android:   
+<img src="https://github.com/091500/ifttthooks/blob/master/Android-mobile-hotspot-setup.png">
+
 
 Share your impressions with #IFTTTHooks hashtag
 
