@@ -67,7 +67,7 @@ You are able to use app even without WiFi connection. In this case your smartwat
 Bluetooth internet tethering should be enabled in your phone Connection Settings.
 
 Bluetooth tethering on Android:   
-<img src="https://github.com/091500/ifttthooks/blob/master/Android-mobile-hotspot-setup.png">
+<img src="https://github.com/091500/ifttthooks/blob/master/Android-mobile-hotspot-setup.png?raw=true">
 
 
 Share your impressions with #IFTTTHooks hashtag
