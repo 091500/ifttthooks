@@ -18,6 +18,9 @@ video [presentation](https://www.youtube.com/watch?v=vmenfESsaJg)
 1. install IFTTT Hooks app from Samsung Galaxy Apps Store on your watch and setup it
 
 
+[<img src="https://github.com/091500/ifttthooks/blob/master/GalaxyStore_English.png?raw=true">](https://galaxy.store/ifttt)
+
+
 ### App menu and configuration
 App main menu consists of the following items:
 
@@ -52,7 +55,7 @@ This outstanding feature allows to quickly import long key strings instead of ty
 Make sure your watch is connected to internet. Then perform the following steps:    
 1. visit [IFTTT Hooks Import Key service](https://murmuring-escarpment-62267.herokuapp.com)
 2. generate short 4-symbol code for your key   
-3. open IFTTT Hooks app and go to Setup Keys -> Add -> Import Key   
+3. open IFTTT Hooks app and go to Setup Keys ⇨ Add ⇨ Import Key   
 4. enter generated 4-symbol code and enjoy   
 
 In case something goes wrong you will see an error message.
@@ -76,3 +79,4 @@ Thank you
 
 ### Version history
 2019.01.15 release date :sunglasses:    
+2019.02.14 Delete Trigger fixed
