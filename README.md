@@ -18,7 +18,7 @@ video [presentation](https://www.youtube.com/watch?v=vmenfESsaJg)
 1. install IFTTT Hooks app from Samsung Galaxy Apps Store on your watch and setup it
 
 
-[<img src="https://github.com/091500/ifttthooks/blob/master/GalaxyStore_English.png?raw=true">](https://galaxy.store/ifttt)
+[<img width="250" src="https://github.com/091500/ifttthooks/blob/master/GalaxyStore_English.png?raw=true">](https://galaxy.store/ifttt)
 
 
 ### App menu and configuration
