@@ -73,6 +73,11 @@ Bluetooth tethering on Android:
 <img src="https://github.com/091500/ifttthooks/blob/master/Android-mobile-hotspot-setup.png?raw=true">
 
 
+
+### Short quiz, please answer
+[IFTTT Hooks quiz](https://goo.gl/forms/Muml6iXiLzn5xjMI2)
+
+
 Share your impressions with #IFTTTHooks hashtag
 
 Thank you
