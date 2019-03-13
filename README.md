@@ -75,7 +75,7 @@ Bluetooth tethering on Android:
 
 
 ### Short quiz, please answer
-[IFTTT Hooks quiz](https://goo.gl/forms/Muml6iXiLzn5xjMI2)
+[IFTTT Hooks quiz](https://goo.gl/forms/uj9VaQ6ZRWKB4Rhz2)
 
 
 Share your impressions with #IFTTTHooks hashtag
