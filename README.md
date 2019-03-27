@@ -78,6 +78,17 @@ Bluetooth tethering on Android:
 [IFTTT Hooks quiz](https://goo.gl/forms/uj9VaQ6ZRWKB4Rhz2)
 
 
+
+### FAQ (udpated 2019-03-27)
+
+Q: **Can I feel some kind of feedback when pressing widget buttons?**    
+A: Tizen Platform has certain limitation for widgets. Currently there is no way to make a vibration or sound on widget screen:
+https://developer.tizen.org/development/guides/web-application/application-management/applications/widget-application
+
+Q: **I cannot enter code, because input field does not display first letters of text. How do I enter the text?**    
+A: Some users have words suggestion turned on in their Keyboard settings. A quick workaround could be turning off the suggestions, or simply swipe left on the text input field:
+https://developer.samsung.com/galaxy-watch/design/patterns/input
+
 Share your impressions with #IFTTTHooks hashtag
 
 Thank you
