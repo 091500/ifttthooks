@@ -85,7 +85,8 @@ Q: **Can I feel some kind of feedback when pressing widget buttons?**
 A: Tizen Platform has certain limitation for widgets. Currently there is no way to make a vibration or sound on widget screen: [https://developer.tizen.org/development/guides/web-application/application-management/applications/widget-application](https://developer.tizen.org/development/guides/web-application/application-management/applications/widget-application)
 
 Q: **I cannot enter code, because input field does not display first letters of text. How do I enter the text?**    
-A: Some users have words suggestion turned on in their Keyboard settings. A quick workaround could be turning off the suggestions, or simply swipe left on the text input field:
+A: This was fixed in version 1.0.7   
+Some users have words suggestion turned on in their Keyboard settings. A quick workaround could be turning off the suggestions, or simply swipe left on the text input field:
 [https://developer.samsung.com/galaxy-watch/design/patterns/input](https://developer.samsung.com/galaxy-watch/design/patterns/input)
 
 Share your impressions with #IFTTTHooks hashtag
@@ -94,4 +95,5 @@ Thank you
 
 ### Version history
 2019.01.15 release date :sunglasses:    
-2019.02.14 Delete Trigger fixed
+2019.02.14 v.1.0.6 Delete Trigger fixed   
+2019.04.02 v.1.0.7 Input fields display fixed   
