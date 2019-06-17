@@ -82,7 +82,8 @@ Bluetooth tethering on Android:
 ### FAQ (udpated 2019-03-27)
 
 Q: **Can I feel some kind of feedback when pressing widget buttons?**    
-A: Tizen Platform has certain limitation for widgets. Currently there is no way to make a vibration or sound on widget screen: [https://developer.tizen.org/development/guides/web-application/application-management/applications/widget-application](https://developer.tizen.org/development/guides/web-application/application-management/applications/widget-application)
+A: Visual feedback was added in version 1.0.8   
+Tizen Platform has certain limitation for widgets. There is no way to make a vibration or sound on widget screen: [https://developer.tizen.org/development/guides/web-application/application-management/applications/widget-application](https://developer.tizen.org/development/guides/web-application/application-management/applications/widget-application)
 
 Q: **I cannot enter code, because input field does not display first letters of text. How do I enter the text?**    
 A: This was fixed in version 1.0.7   
@@ -97,3 +98,4 @@ Thank you
 2019.01.15 release date :sunglasses:    
 2019.02.14 v.1.0.6 Delete Trigger fixed   
 2019.04.02 v.1.0.7 Input fields display fixed   
+2019.06.11 v.1.0.8 Added visual feedback on widget button press  
