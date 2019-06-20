@@ -79,7 +79,7 @@ Bluetooth tethering on Android:
 
 
 
-### FAQ (udpated 2019-03-27)
+### FAQ (udpated 2019-06-20)
 
 Q: **Can I feel some kind of feedback when pressing widget buttons?**    
 A: Visual feedback was added in version 1.0.8   
@@ -89,6 +89,9 @@ Q: **I cannot enter code, because input field does not display first letters of 
 A: This was fixed in version 1.0.7   
 Some users have words suggestion turned on in their Keyboard settings. A quick workaround could be turning off the suggestions, or simply swipe left on the text input field:
 [https://developer.samsung.com/galaxy-watch/design/patterns/input](https://developer.samsung.com/galaxy-watch/design/patterns/input)
+
+Q: **When I trigger action there is a delay**    
+A: Some users may notice a delay after they trigger an action. This is not caused by app. Network connection, as well as IFTTT cloud servers may cause delay.    
 
 Share your impressions with #IFTTTHooks hashtag
 
