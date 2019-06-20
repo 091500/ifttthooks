@@ -7,7 +7,6 @@ video presentation on YouTube:
 
 **Features:**
 
-* Galaxy Watch support
 * Color picker for widget slots
 * 6 widget slots
 * Import key feature
