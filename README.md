@@ -93,6 +93,14 @@ Some users have words suggestion turned on in their Keyboard settings. A quick w
 Q: **When I trigger action there is a delay**    
 A: Some users may notice a delay after they trigger an action. This is not caused by app. Network connection, as well as IFTTT cloud servers may cause delay.    
 
+
+
+### Some of Buyers' comments and ratings
+<img width="700" src="https://github.com/091500/ifttthooks/blob/master/1.png?raw=true">    
+<img width="700" src="https://github.com/091500/ifttthooks/blob/master/2.png?raw=true">    
+<img width="700" src="https://github.com/091500/ifttthooks/blob/master/3.png?raw=true">    
+
+
 Share your impressions with #IFTTTHooks hashtag
 
 Thank you
