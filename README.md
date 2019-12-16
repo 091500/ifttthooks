@@ -5,6 +5,10 @@ Send IFTTT webhook events from your wrist
 video presentation on YouTube:    
 [<img width="450" src="https://github.com/091500/ifttthooks/blob/master/scr.png?raw=true">](https://www.youtube.com/watch?v=vmenfESsaJg)
 
+
+**HOWTO, Setup full guide**  →  [HERE](https://github.com/091500/ifttthooks/blob/master/guide-final-en.png?raw=true)  ←
+
+
 **Features:**
 
 * Color picker for widget slots
@@ -109,4 +113,8 @@ Thank you
 2019.01.15 release date :sunglasses:    
 2019.02.14 v.1.0.6 Delete Trigger fixed   
 2019.04.02 v.1.0.7 Input fields display fixed   
-2019.06.11 v.1.0.8 Added visual feedback on widget button press  
+2019.06.11 v.1.0.8 Added visual feedback on widget button press   
+TBA v.1.0.9 Improvements:    
+  Added sorting (a-z) in Send Triggers, Setup Triggers, Setup Keys lists.    
+  Added App shortcut on widget screen.    
+  Improved Import Key Service server response.    
