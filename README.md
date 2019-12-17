@@ -101,12 +101,14 @@ A: Some users may notice a delay after they trigger an action. This is not cause
 
 Some users instead of sorting out the problem post negative comments immideately. This is not a clever approach. In case you faced a problem and the app 'does not work' refer to the following checklist:   
 1. read carefully setup guide [here](https://github.com/091500/ifttthooks/blob/master/guide-final-en.pdf?raw=true)  
-2. test your webhook in desktop web browser: open https://ifttt.com/maker_webhooks then click on 'Documentation' link   
+2. test your webhook in desktop web browser: open [https://ifttt.com/maker_webhooks](https://ifttt.com/maker_webhooks) then click on 'Documentation' link   
 3. successful result in prevous step? NO: go to item 2, YES: go to item 4   
 4. setup the app correctly on Watch   
 5. check Internet connection on Watch   
 6. successful result in prevous step? NO: go to item 5, YES: go to item 7 
-7. still have any trouble? YES: submit an issue [here](https://github.com/091500/ifttthooks/issues), provide detailed information on your problem (please mask your IFTTT keys and any private information)
+7. Internet connection is present on Watch, App is configured correctly, IFTTT Webhook works in destktop browser, Trigger is sent successfully from IFTTT Webhooks watch app?
+8. successful result in prevous step? YES: GONGRATULATIONS, YOU ARE GREAT!, NO: go to item 9 
+9. submit an issue [here](https://github.com/091500/ifttthooks/issues), provide detailed information on your problem (please mask your IFTTT keys and any private information)
 
 
 
