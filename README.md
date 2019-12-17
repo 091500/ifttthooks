@@ -103,9 +103,9 @@ Some users instead of sorting out the problem post negative comments immideately
 1. test your webhook via normal browser 
 2. successful result in prevous step? NO: go to item 1, YES: go to item 3   
 3. setup the app correctly on Watch  
-4. check internet connection on Watch   
+4. check Internet connection on Watch   
 5. successful result in prevous step? NO: go to item 4, YES: go to item 6 
-6. still have any trouble? YES: submit an issue: https://github.com/091500/ifttthooks/issues
+6. still have any trouble? YES: submit an issue [here](https://github.com/091500/ifttthooks/issues), provide detailed information on your problem (please mask your IFTTT keys and any private information)
 
 
 
