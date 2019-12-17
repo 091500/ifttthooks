@@ -64,14 +64,13 @@ Make sure your watch is connected to internet. Then perform the following steps:
 
 In case something goes wrong you will see an error message.
 
-### Network connection
-App uses network connection only to send requests when you press widget slot 
-buttons or choose an item from Send Triggers list.
+### Internet connection (Watch MUST have Internet connection on to send triggers)
+App uses Internet connection only to send requests when you press widget slot buttons or choose an item from Send Triggers list.
 
-Send Triggers menu item shows a notification if network connection is absent on your device.
+Send Triggers menu item shows a notification if Internet connection is absent on your device.
 
 You are able to use app even without WiFi connection. In this case your smartwatch should be connected to your phone over bluetooth. 
-Bluetooth internet tethering should be enabled in your phone Connection Settings.
+Bluetooth Internet tethering should be enabled in your phone Connection Settings.
 
 Bluetooth tethering on Android:   
 <img src="https://github.com/091500/ifttthooks/blob/master/Android-mobile-hotspot-setup.png?raw=true">
