@@ -6,7 +6,7 @@ video presentation on YouTube:
 [<img width="450" src="https://github.com/091500/ifttthooks/blob/master/scr.png?raw=true">](https://www.youtube.com/watch?v=vmenfESsaJg)
 
 
-**HOWTO, Setup full guide**  →  [HERE](https://github.com/091500/ifttthooks/blob/master/guide-final-en.png?raw=true)  ←
+**HOWTO, Setup full guide (PDF)**  →  [HERE](https://github.com/091500/ifttthooks/blob/master/guide-final-en.pdf?raw=true)  ←
 
 
 **Features:**
