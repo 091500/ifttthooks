@@ -97,6 +97,17 @@ Q: **When I trigger action there is a delay**
 A: Some users may notice a delay after they trigger an action. This is not caused by app. Network connection, as well as IFTTT cloud servers may cause delay.    
 
 
+### If App does not work
+
+Some users instead of sorting out the problem post negative comments immideately. This is not a clever approach. In case you faced a problem and the app 'does not work' refer to the following checklist:   
+1. test your webhook via normal browser 
+2. successful result in prevous step? NO: go to item 1, YES: go to item 3   
+3. setup the app correctly on Watch  
+4. check internet connection on Watch   
+5. successful result in prevous step? NO: go to item 4, YES: go to item 6 
+6. still have any trouble? YES: submit an issue: https://github.com/091500/ifttthooks/issues
+
+
 
 ### Some of Buyers' comments and ratings
 <img width="700" src="https://github.com/091500/ifttthooks/blob/master/1.png?raw=true">    
