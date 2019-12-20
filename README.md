@@ -127,7 +127,7 @@ Thank you
 2019.02.14 v.1.0.6 Delete Trigger fixed   
 2019.04.02 v.1.0.7 Input fields display fixed   
 2019.06.11 v.1.0.8 Added visual feedback on widget button press   
-TBA v.1.0.9 Improvements:    
+2019.12.20 v.1.0.9 Improvements:    
   Added sorting (a-z) in Send Triggers, Setup Triggers, Setup Keys lists.    
   Added App shortcut on widget screen.    
   Improved Import Key Service server response.    
