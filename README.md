@@ -75,7 +75,9 @@ Make sure your watch is connected to internet. Then perform the following steps:
 3. open IFTTT Hooks app and go to Setup Keys ⇨ Add ⇨ Import Key   
 4. enter generated 4-symbol code and enjoy   
 
-In case something goes wrong you will see an error message.
+In case something goes wrong you will see an error message.    
+**Warning: for security reason code will expire in 10 minutes**
+
 
 ### Configuration Service
 This outstanding feature allows to do the following things:
@@ -102,7 +104,8 @@ Tap on **Upload Config** in the app menu:
 4. load config     
 5. save backup file     
 
-In case something goes wrong you will see an error message.
+In case something goes wrong you will see an error message.     
+**Warning: for security reason code will expire in 10 minutes**
 
 ### Internet connection (Watch MUST have Internet connection on to send triggers)
 App uses Internet connection only to send requests when you press widget slot buttons or choose an item from Send Triggers list.
