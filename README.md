@@ -8,6 +8,13 @@ video presentation on YouTube:
 
 **HOWTO, Setup full guide (PDF)**  →  [HERE](https://github.com/091500/ifttthooks/blob/master/guide-final-en.pdf?raw=true)  ←
 
+**Configuration Service - how to create config - full guide (PDF)**  →  [HERE](https://github.com/091500/ifttthooks/blob/master/create_config.pdf?raw=true)  ←
+
+**Configuration Service - how to load config - full guide (PDF)**  →  [HERE](https://github.com/091500/ifttthooks/blob/master/load_config.pdf?raw=true)  ←
+
+**Services**     
+[IFTTT Hooks Import Key service](https://murmuring-escarpment-62267.herokuapp.com)     
+[IFTTT Configuration Service](https://murmuring-escarpment-62267.herokuapp.com/app_configurations)     
 
 **Features:**
 
@@ -46,6 +53,12 @@ Required fields:
 
 ➎ **Widget Colors** - assign colors to Widget slots.
 
+➏  **Reset Config** - reset app configuration on watch.
+
+➐  **Load Config** - load config from Configuration Service by code.
+
+➑ **Upload Config** - upload current app config to the Configuration Service.
+
    
    
 ### App widget
@@ -61,6 +74,33 @@ Make sure your watch is connected to internet. Then perform the following steps:
 2. generate short 4-symbol code for your key   
 3. open IFTTT Hooks app and go to Setup Keys ⇨ Add ⇨ Import Key   
 4. enter generated 4-symbol code and enjoy   
+
+In case something goes wrong you will see an error message.
+
+### Configuration Service
+This outstanding feature allows to do the following things:
+1. Create and test Configuration     
+2. Import Configuration on your watch         
+3. Export Configuration to a backup file         
+4. Create configuration from a backup file        
+
+Open the following link in your desktop browser:            
+1. visit [IFTTT Configuration Service](https://murmuring-escarpment-62267.herokuapp.com/app_configurations)     
+2. fill in required information and create configuration        
+3. test your webhooks by pressing Try buttons        
+4. save configuration (remeber the code)    
+5. save backup file     
+
+Tap on **Load Config** in the app menu:    
+1. provide code        
+2. import configuration on your watch       
+
+Tap on **upload Config** in the app menu:    
+1. remeber code            
+2. visit [IFTTT Configuration Service](https://murmuring-escarpment-62267.herokuapp.com/app_configurations)     
+3. provide code     
+4. load config     
+5. save backup file     
 
 In case something goes wrong you will see an error message.
 
@@ -131,3 +171,4 @@ Thank you
   Added sorting (a-z) in Send Triggers, Setup Triggers, Setup Keys lists.    
   Added App shortcut on widget screen.    
   Improved Import Key Service server response.    
+TBA v.1.0.10 Added Reset/Load/Upload config support    
