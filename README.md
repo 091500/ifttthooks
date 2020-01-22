@@ -14,7 +14,7 @@ video presentation on YouTube:
 
 **Services**     
 [IFTTT Hooks Import Key service](https://murmuring-escarpment-62267.herokuapp.com)     
-[IFTTT Configuration Service](https://murmuring-escarpment-62267.herokuapp.com/app_configurations)     
+[IFTTT Hooks Configuration Service](https://murmuring-escarpment-62267.herokuapp.com/app_configurations)     
 
 **Features:**
 
@@ -85,7 +85,7 @@ This outstanding feature allows to do the following things:
 4. Create configuration from a backup file        
 
 Open the following link in your desktop browser:            
-1. [IFTTT Configuration Service](https://murmuring-escarpment-62267.herokuapp.com/app_configurations)     
+1. [IFTTT Hooks Configuration Service](https://murmuring-escarpment-62267.herokuapp.com/app_configurations)     
 2. fill in required information and create configuration        
 3. test your webhooks by pressing Try buttons        
 4. save configuration (remeber the code)    
@@ -97,7 +97,7 @@ Tap on **Load Config** in the app menu:
 
 Tap on **Upload Config** in the app menu:    
 1. remeber code            
-2. visit [IFTTT Configuration Service](https://murmuring-escarpment-62267.herokuapp.com/app_configurations)     
+2. visit [IFTTT Hooks Configuration Service](https://murmuring-escarpment-62267.herokuapp.com/app_configurations)     
 3. provide code     
 4. load config     
 5. save backup file     
