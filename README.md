@@ -174,4 +174,4 @@ Thank you
   Added sorting (a-z) in Send Triggers, Setup Triggers, Setup Keys lists.    
   Added App shortcut on widget screen.    
   Improved Import Key Service server response.    
-TBA v.1.0.10 Added Reset/Load/Upload config support    
+2020.02.04 v.1.0.10 Added Reset/Load/Upload config support    
