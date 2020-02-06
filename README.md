@@ -60,6 +60,9 @@ Why? because when you do so, the url will be escaped. See the difference:
 Bad: Party & Lights    
 URL: https://maker.ifttt.com/trigger/Party%20%26%20Lights/with/key/your_key   
     
+Good: party_lights      
+URL: https://maker.ifttt.com/trigger/party_lights/with/key/your_key    
+
 ➍ **Setup Widget** - assign Triggers to Widget slots.
 
 ➎ **Widget Colors** - assign colors to Widget slots.
