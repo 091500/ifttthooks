@@ -49,6 +49,21 @@ Required fields:
 - Event Name
 - Widget Slot
 
+**Warning: do not use any special characters and spaces for 'Event Name'. Your trigger may not work.**    
+Bad: Open Garage    
+Good: open_garage    
+     
+Bad: Party & Lights   
+Good: party_lights   
+    
+Why? because when you do so, the url will be escaped. See the difference:    
+Bad: Party & Lights    
+URL: https://maker.ifttt.com/trigger/Party%20%26%20Lights/with/key/your_key   
+    
+Good: open_garage    
+URL: https://maker.ifttt.com/trigger/party_lights/with/key/your_key    
+
+
 ➍ **Setup Widget** - assign Triggers to Widget slots.
 
 ➎ **Widget Colors** - assign colors to Widget slots.
@@ -163,7 +178,9 @@ Some users instead of sorting out the problem post negative comments immideately
 
 Share your impressions with #IFTTTHooks hashtag
 
-Thank you
+Like the App?  Please leave a feedback on Samsung Galaxy Store and rate the app.    
+
+Thank you!
 
 ### Version history
 2019.01.15 release date :sunglasses:    
