@@ -6,6 +6,10 @@ video presentation on YouTube:
 [<img width="450" src="https://github.com/091500/ifttthooks/blob/master/scr.png?raw=true">](https://www.youtube.com/watch?v=vmenfESsaJg)
 
 
+Another videos:    
+https://youtu.be/vvl93br4Edw - shot by reddit user waspxx92   
+https://youtu.be/dzPi0EoXlJ8 - another detailed explanation how to setup the app   
+
 **HOWTO, Setup full guide (PDF)**  →  [HERE](https://github.com/091500/ifttthooks/blob/master/guide-final-en.pdf?raw=true)  ←
 
 **Configuration Service - how to create config - full guide (PDF)**  →  [HERE](https://github.com/091500/ifttthooks/blob/master/create_config.pdf?raw=true)  ←
