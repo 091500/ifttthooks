@@ -7,8 +7,8 @@ video presentation on YouTube:
 
 
 Another videos:    
-https://youtu.be/vvl93br4Edw - shot by reddit user waspxx92   
-https://youtu.be/dzPi0EoXlJ8 - another detailed explanation how to setup the app   
+[https://youtu.be/vvl93br4Edw](https://youtu.be/vvl93br4Edw) - shot by reddit user waspxx92   
+[https://youtu.be/dzPi0EoXlJ8](https://youtu.be/dzPi0EoXlJ8) - another detailed explanation how to setup the app   
 
 **HOWTO, Setup full guide (PDF)**  →  [HERE](https://github.com/091500/ifttthooks/blob/master/guide-final-en.pdf?raw=true)  ←
 
