@@ -174,6 +174,7 @@ Some users instead of sorting out the problem post negative comments immideately
 
 
 ### Some of Buyers' comments and ratings
+<img width="700" src="https://github.com/091500/ifttthooks/blob/master/01hooks.png?raw=true">    
 <img width="700" src="https://github.com/091500/ifttthooks/blob/master/1.png?raw=true">    
 <img width="700" src="https://github.com/091500/ifttthooks/blob/master/2.png?raw=true">    
 <img width="700" src="https://github.com/091500/ifttthooks/blob/master/3.png?raw=true">    
