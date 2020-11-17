@@ -51,7 +51,15 @@ Required fields:
 - Name
 - Key
 - Event Name
+- Params String
 - Widget Slot
+
+
+Params String allows to add an optional string to pass with a request.    
+Use the following format:
+value1=v1&value2=v2&value3=v3 or    
+value1=test
+
 
 **Warning: do not use any special characters and spaces for 'Event Name'. Your trigger may not work.**    
 Bad: Open Garage    
@@ -196,3 +204,5 @@ Thank you!
   Added App shortcut on widget screen.    
   Improved Import Key Service server response.    
 2020.02.04 v.1.0.10 Added Reset/Load/Upload config support    
+2020.11.15 v.1.0.13 Params String was added in Add Triggers screen    
+
